@@ -20,6 +20,7 @@
 ### Mapa conceptual del desafío
 
 > Ver evidencia fotográfica en [`imagenes/`](../imagenes) — Figura 2, mapa conceptual construido a partir de la ficha oficial del desafío.
+> ![Mapa conceptual](../imagenes/mapa-conceptual.jpg).
 
 ### Lo que sabemos y lo que necesitamos saber
 
